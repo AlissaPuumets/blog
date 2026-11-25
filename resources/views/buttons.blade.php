@@ -8,6 +8,8 @@
 </head>
 <body>
     <a href="/">Home</a>
-    <div class="bg-blue-500 w-50 h-50"></div>
+    <div class="container mx-auto">
+        <div class="bg-blue-500 w-50 h-50"></div>
+    </div>
 </body>
 </html>
